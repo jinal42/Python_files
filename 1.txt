@@ -1,0 +1,8 @@
+"r" - Read - Default value. Opens a file for reading
+"a" - Append - Opens a file for appending
+"w" - Write - Opens a file for writing
+"x" - Create - Creates the specified file
+
+ tell() - method returns the current file position in a file 
+ seek() - method sets the current file position in a file 
+ readlines()  - method will return all the lines in a file
